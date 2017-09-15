@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalisationTest</string>
+    <string name="country">geo:-26.195246, 28.034088</string>
+</resources>
