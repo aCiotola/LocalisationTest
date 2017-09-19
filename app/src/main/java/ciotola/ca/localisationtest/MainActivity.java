@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
 
     public void addUri(View v)
     {
-        Uri map = Uri.parse("geo:-26.195246, 28.034088");
+        Uri map = Uri.parse("geo:46.803284, -71.242798");
         showMap(map);
     }
 }

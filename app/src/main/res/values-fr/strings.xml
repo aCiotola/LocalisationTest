@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">LocalisationTest</string>
-    <string name="country">Click for CANADA!</string>
+    <string name="country">Cliquer pour CANADA!</string>
 </resources>

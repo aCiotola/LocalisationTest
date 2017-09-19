@@ -12,13 +12,12 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/country" />
 
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="153dp"
-        android:layout_height="133dp"
+        android:layout_width="wrap_content"
+        android:layout_height="151dp"
         app:srcCompat="@drawable/can"
-        android:layout_weight="0.82"
         android:onClick="addUri"/>
 </LinearLayout>
